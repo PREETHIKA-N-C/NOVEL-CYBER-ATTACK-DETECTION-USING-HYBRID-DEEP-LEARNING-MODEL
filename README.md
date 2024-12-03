@@ -51,6 +51,6 @@ The final prediction will fall into one of the following attack classes:
 
 ## Credits
 
-- Swetha Nachimuthu
 - Preethika N C
+- Swetha Nachimuthu
 - Subiksha T
