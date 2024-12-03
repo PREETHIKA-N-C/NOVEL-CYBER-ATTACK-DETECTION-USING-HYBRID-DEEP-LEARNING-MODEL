@@ -15,11 +15,6 @@ A total of 5 billion people around the world use the internet nowadays – equiv
 
 This repository contains the code and documentation for the "NOVEL CYBER ATTACK DETECTION USING A HYBRID DEEP LEARNING MODEL" project. The aim of this project is to develop a novel cyber attack detection system using a hybrid deep learning model that can identify various types of cyber attacks with greater accuracy.
 
-
-![Overview](https://imgtr.ee/images/2023/09/22/2fdc826d9a7d5e2d7dba3a0ff41efe86.jpeg)
-
-![Flowchart](https://imgtr.ee/images/2023/09/22/b55e0e28ce89d465640b40b982b97edc.jpeg)
-
 ## Features
 
 - Hybrid deep learning model combining CNN, MLP, and LSTM algorithms.
